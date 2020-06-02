@@ -1,0 +1,23 @@
+
+
+.cart-items {
+    background-color:red;
+    position: relative;
+    align-content: center;
+    align-self: center;
+    padding-left: 20%;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    padding-right: 20%;
+    opacity: 80%;
+}
+
+* {
+    text-align: center;  
+    background-color: white;
+}
+
+.cart-quantity-input {
+    opacity: 50%;
+}
+
